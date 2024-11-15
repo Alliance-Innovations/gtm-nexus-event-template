@@ -1,0 +1,5 @@
+homepage: "https://analytics.nexus"
+documentation: "https://github.com/Alliance-Innovations/gtm-nexus-event-template"
+versions:
+  - sha:
+    changeNotes: Initial release.
